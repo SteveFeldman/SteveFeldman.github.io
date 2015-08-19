@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Amazing World of Steve...</title>
+    <title>Seven Seconds was an Eternity!</title>
     <description>My name is Steve Feldman. You may or may not know me. Somehow you stumbled across my blog because most likely I didn’t tell you it exists. I am married to a beautiful woman named Jenny. I have two adventurous and fearless daughters named Caroline and Molly. After 11 crazy and fun years @Blackboard, I&#39;ve been fortunate to head up Engineering at Contrast Security.
 </description>
     <link>http://stevefeldman.github.io/</link>
     <atom:link href="http://stevefeldman.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Aug 2015 23:04:18 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Aug 2015 23:04:18 -0400</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2015 22:44:36 -0400</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2015 22:44:36 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Let&#39;s Give GitHub Pages a Shot</title>
+        <description>&lt;p&gt;I started blogging way back in 2008 when I created my first blog &lt;a href=&quot;http://sevenseconds.wordpress.com&quot;&gt;SevenSeconds&lt;/a&gt;. Since then I have written a little over 200 posts, some long and some short. Nearly all of my posts were written in the context of my life at Blackboard running a Performance Engineering team, building a Security organization and growing a global development organization. &lt;/p&gt;
+
+&lt;p&gt;As I wrote in my [last post] (https://sevenseconds.wordpress.com/2015/04/27/seven-months-into-startup-life-tell-me-again-why-i-havent-been-blogging-about-it/), I’ve moved back into the world of startup life. Now instead of building an organization and being relegated to pushing spreadsheets, I get hands-on again. I’m doing meaningful engineering work for the first time in years. That is challenging my mind and my spirit in ways that I hadn’t seen in years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../images/sevenseconds.png&quot; alt=&quot;SevenSeconds&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if this 8th or 9th attempt at getting back on the blog waggon is going to be a failed attempt or successful. I’m going to do it nonetheless. For now, I’m going to do it here using &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;. I will still keep my old blog around. I might even post from time to time. I’m hoping for this to be my blog of shorts…blog entries less than a page or simple idea.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Aug 2015 18:04:01 -0400</pubDate>
+        <link>http://stevefeldman.github.io/github/2015/08/18/githubpages.html</link>
+        <guid isPermaLink="true">http://stevefeldman.github.io/github/2015/08/18/githubpages.html</guid>
+        
+        
+        <category>github</category>
+        
+      </item>
     
       <item>
         <title>Seven Months Into Startup Life…Tell Me Again Why I Haven’t Been Blogging About It?</title>
