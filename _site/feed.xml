@@ -6,9 +6,32 @@
 </description>
     <link>http://stevefeldman.github.io/</link>
     <atom:link href="http://stevefeldman.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Aug 2015 22:55:20 -0400</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 22:55:20 -0400</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2015 23:35:22 -0400</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2015 23:35:22 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>I Want My Two Dollars</title>
+        <description>&lt;p&gt;One of the greatest movies of all time, or specifically one of my all-time fav’s is &lt;a href=&quot;http://www.imdb.com/title/tt0088794/&quot;&gt;Better Off Dead&lt;/a&gt;. Everything about the movie is funny. Nearly every scene is crafted in such a way to guarantee a laugh or snort…yes I’ve definitely had odd noises come out of my mouth and nose at the same time watching the move. One of the all-time classic lines is delivered by a paperboy named Johnny. “I want my two dollars!”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../../images/twodollars.jpeg&quot; alt=&quot;Two Dollars&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The line got me thinking recently about a saying I used to have at Blackboard. I used to tell our automation teams to spend a dollar once and make it turn into two or three or ten dollars. The point was about efficiency, simplicty and reuse.&lt;/p&gt;
+
+&lt;p&gt;We used to spend a lot of money on test automation, specifically acceptance test automation. We had functional automation like no other. It was your standard fair selenium automation, but it was massive. The code base for the functional acceptance tests were nearly as big as our entire product code base. We had performance acceptance tests, which were mainly HTTP requests written in C. Finally, we had an entire suite of tests used by our Security team used to dynamically penetrate the product.&lt;/p&gt;
+
+&lt;p&gt;We didn’t need to write (3) different versions of acceptance test automation. We could have gotten away with writing it once, executing it once or maybe twiceand achieved the same outcomes. We would have saved a lot of people some time, money and effort. &lt;/p&gt;
+
+&lt;p&gt;I’ll talk about the how in an upcoming blog about the product I’ve been working on for the past year called &lt;a href=&quot;http://www.contrastsecurity.com/&quot;&gt;Contrast&lt;/a&gt;. Take a look at my colleague’s post in the meantime about &lt;a href=&quot;http://www.contrastsecurity.com/security-influencers/9-reasons-why-interactive-tools-are-better-than-static-or-dynamic-tools-regarding-application-security&quot;&gt;Interactive Application Security Testing&lt;/a&gt; to learn a lot in advance.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Aug 2015 19:34:51 -0400</pubDate>
+        <link>http://stevefeldman.github.io/ci/2015/08/18/two-dollars.html</link>
+        <guid isPermaLink="true">http://stevefeldman.github.io/ci/2015/08/18/two-dollars.html</guid>
+        
+        
+        <category>ci</category>
+        
+      </item>
     
       <item>
         <title>Let&#39;s Give GitHub Pages a Shot</title>
