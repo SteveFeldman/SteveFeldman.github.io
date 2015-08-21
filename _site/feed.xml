@@ -6,15 +6,28 @@
 </description>
     <link>http://stevefeldman.github.io/</link>
     <atom:link href="http://stevefeldman.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Aug 2015 23:38:06 -0400</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 23:38:06 -0400</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2015 23:05:07 -0400</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2015 23:05:07 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>More CSS</title>
+        <description>&lt;p&gt;You probably noticed some changes to my blog today. I’ve added a background file I used years ago in a presentation I gave at Blackboard World. It’s been years since I mucked around with CSS and I was trying to get comfortable with it. I didn’t really do much. I simply added the background, rotated it and then made sure to avoid repeating the image as the blog entry requires scrolling. &lt;/p&gt;
+
+&lt;p&gt;I made some tweaks to font colors as well. I’m not a front-end developer whatsoever, but I really want to teach my daughters how to design their web sites with more power and control. I equate this teaching myself Calculus or Algebra again when my daughters go to middle and high school. I need to be prepared if you catch my drift.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Aug 2015 19:00:21 -0400</pubDate>
+        <link>http://stevefeldman.github.io/css/2015/08/20/more-css.html</link>
+        <guid isPermaLink="true">http://stevefeldman.github.io/css/2015/08/20/more-css.html</guid>
+        
+        
+        <category>css</category>
+        
+      </item>
     
       <item>
         <title>I Want My Two Dollars</title>
         <description>&lt;p&gt;One of the greatest movies of all time, or specifically one of my all-time fav’s is &lt;a href=&quot;http://www.imdb.com/title/tt0088794/&quot;&gt;Better Off Dead&lt;/a&gt;. Everything about the movie is funny. Nearly every scene is crafted in such a way to guarantee a laugh or snort…yes I’ve definitely had odd noises come out of my mouth and nose at the same time watching the move. One of the all-time classic lines is delivered by a paperboy named Johnny. “I want my two dollars!”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../../images/twodollars.jpg&quot; alt=&quot;Two Dollars&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The line got me thinking recently about a saying I used to have at Blackboard. I used to tell our automation teams to spend a dollar once and make it turn into two or three or ten dollars. The point was about efficiency, simplicty and reuse.&lt;/p&gt;
 
@@ -38,8 +51,6 @@
         <description>&lt;p&gt;I started blogging way back in 2008 when I created my first blog &lt;a href=&quot;http://sevenseconds.wordpress.com&quot;&gt;SevenSeconds&lt;/a&gt;. Since then I have written a little over 200 posts, some long and some short. Nearly all of my posts were written in the context of my life at Blackboard running a Performance Engineering team, building a Security organization and growing a global development organization. &lt;/p&gt;
 
 &lt;p&gt;As I wrote in my &lt;a href=&quot;https://sevenseconds.wordpress.com/2015/04/27/seven-months-into-startup-life-tell-me-again-why-i-havent-been-blogging-about-it/&quot;&gt;last post&lt;/a&gt;, I’ve moved back into the world of startup life. Now instead of building an organization and being relegated to pushing spreadsheets, I get hands-on again. I’m doing meaningful engineering work for the first time in years. That is challenging my mind and my spirit in ways that I hadn’t seen in years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../../images/sevenseconds.png&quot; alt=&quot;SevenSeconds&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m not sure if this 8th or 9th attempt at getting back on the blog waggon is going to be a failed attempt or successful. I’m going to do it nonetheless. For now, I’m going to do it here using &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;. I will still keep my old blog around. I might even post from time to time. I’m hoping for this to be my blog of shorts…blog entries less than a page or simple idea.&lt;/p&gt;
 </description>

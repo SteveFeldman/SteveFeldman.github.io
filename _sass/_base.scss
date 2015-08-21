@@ -18,8 +18,13 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
+    color: #180207;
     background-color: $background-color;
+    background: url('../images/background.png')  no-repeat scroll center top/cover transparent;
+    -o-background-size: 100%;
+    -moz-background-size: 100% auto;
+    -webkit-background-size:100%;
+    background-size: 100%;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -198,7 +203,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: #180207;
         }
     }
 }
